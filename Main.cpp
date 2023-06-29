@@ -17,7 +17,7 @@ int Ffunction(int a)
 	if (a < 0)
 	{
 		cout << endl;
-		return;
+		return 0;
 	}
 
 	cout << a << ",";
